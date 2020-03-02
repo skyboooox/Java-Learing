@@ -12,6 +12,9 @@ public class Calculator {
 		y= scan.nextDouble();
 		System.out.println("运行结果如下：");
 		System.out.println("x+y="+(x+y));
+		System.out.println("x-y="+(x-y));
+		System.out.println("x*y="+(x*y));
+		System.out.println("x/y="+(x/y));
 		scan.close();
 	}
 
