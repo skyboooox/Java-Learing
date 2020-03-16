@@ -1,4 +1,3 @@
-//package 口算题;
 import java.util.Scanner;
 public class arithmetic_problem {
 

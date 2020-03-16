@@ -1,5 +1,3 @@
-
-//package 口算题;
 import java.util.*;
 public class rand  {
 

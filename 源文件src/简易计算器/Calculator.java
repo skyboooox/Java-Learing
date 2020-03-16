@@ -1,9 +1,7 @@
-package 简易计算器;
 import java.util.Scanner;
 public class Calculator {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
 		//初始化
 		Scanner scan =new Scanner(System.in);
 		double x,y;//定义变量
