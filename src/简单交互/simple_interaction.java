@@ -1,4 +1,3 @@
-package 简单交互;
 import java.util.Scanner;
 public class simple_interaction {
 
