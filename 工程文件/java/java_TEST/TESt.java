@@ -1,6 +1,6 @@
-package java;
+package java_TEST;
 
-public class TEST {	
+public class TESt {
 	static double Area(double r) {
 		double area;
 		area =3.14 *r*r;
