@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30df9252-d9d1-4d7e-8c9c-ecc798610c3c" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello_world.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/打印字母表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/打印字母表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello_world.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello_world.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/打印字母表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源文件src/乘法表.java" beforeDir="false" afterPath="$PROJECT_DIR$/../源文件src/乘法表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
