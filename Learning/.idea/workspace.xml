@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30df9252-d9d1-4d7e-8c9c-ecc798610c3c" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/打印字母表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello_world.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello_world.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/打印字母表.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../源文件src/乘法表.java" beforeDir="false" afterPath="$PROJECT_DIR$/../源文件src/乘法表.java" afterDir="false" />
-    </list>
+    <list default="true" id="91f50589-1942-4fd1-8bbc-e8cbe4763a67" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1riIBZxJeW7yVzr3uxw7vlejUlL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1rqpip6uLCOq3YBnztxve0cmSxf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,50 +16,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="emulator" />
   </component>
-  <component name="ReaderModeSettings">
-    <option name="showLigatures" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Hello_world" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello_world" />
-      <module name="Learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.Hello_world" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="30df9252-d9d1-4d7e-8c9c-ecc798610c3c" name="默认变更列表" comment="" />
-      <created>1619452351413</created>
+      <changelist id="91f50589-1942-4fd1-8bbc-e8cbe4763a67" name="默认变更列表" comment="" />
+      <created>1619713607328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619452351413</updated>
+      <updated>1619713607328</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
